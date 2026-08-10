@@ -1,16 +1,46 @@
-## Hi there 👋
+ Hi 👋, I'm Ashwin Rodrigues
 
-<!--
-**rodriguesashwin/rodriguesashwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at St. Joseph Engineering College, Vamanjoor.
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Python
+
+🚀 Interested in:
+- Full Stack Development
+- Web Development
+- AI & Technology
+
+📍 Mangaluru, Karnatak
+
+🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- PHP
+- MySQL
+- Git
+- GitHub
+
+ 📚 Currently Learning
+
+- Git & GitHub
+- JavaScript
+- React.js
+- Node.js
+- Data Structures & Algorithms
+
+ 🎯 My Goal
+
+To become a skilled software developer and build real-world applications.
+
+ 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/ashwin
+- GitHub: https://github.com/rodriguesashwin
